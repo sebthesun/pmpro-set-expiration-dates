@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Paid Memberships Pro - Set Expiration Dates Add On\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-17 22:45+0000\n"
+"PO-Revision-Date: 2020-05-17 23:03+0000\n"
+"Last-Translator: Sébastien Beausoleil\n"
+"Language-Team: Français\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.4; wp-5.4.1"
+
+#: pmpro-set-expiration-dates.php:190 pmpro-set-expiration-dates.php:205
+msgid "Day"
+msgstr "Jour"
+
+#: pmpro-set-expiration-dates.php:30 pmpro-set-expiration-dates.php:264
+msgid "Expiration Date:"
+msgstr "Date d'expiration"
+
+#. URI of the plugin
+msgid "http://www.paidmembershipspro.com/wp/pmpro-set-expiration-dates/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.strangerstudios.com"
+msgstr ""
+
+#: pmpro-set-expiration-dates.php:319
+msgid "Membership expires on "
+msgstr "L'adhésion expire le "
+
+#. Name of the plugin
+msgid "Paid Memberships Pro - Set Expiration Dates Add On"
+msgstr "Paid Memberships Pro - Complément pour définir une date d'expiration"
+
+#. Description of the plugin
+msgid ""
+"Set a specific expiration date (e.g. 2013-12-31) for a PMPro membership "
+"level or discount code."
+msgstr ""
+"Définir une date d'expiration spécifique (2013-12-31) pour un niveau "
+"d'adhésion PMPro ou une code de réduction"
+
+#: pmpro-set-expiration-dates.php:24
+msgid "Set Expiration Date"
+msgstr "Définir une date d'expiration"
+
+#. Author of the plugin
+msgid "Stranger Studios"
+msgstr ""
+
+#: pmpro-set-expiration-dates.php:25
+msgid ""
+"To have this level expire on a specific date, enter it below in YYYY-MM-DD "
+"format. <strong>Note:</strong> You\n"
+"\t    must also set an expiration date above (e.g. 1 Year) which will be "
+"overwritten by the value below."
+msgstr ""
+"Afin de faire en sorte que l'abonnement pour ce niveau d'adhésion expire à "
+"une date spécifique, entrez la date ci-dessous selon le format suivant: YYYY-"
+"MM-JJ.  <strong>Important:</strong> Vous devez aussi définir une période "
+"d'expiration dans la section à cet effet plus haut  (exemple: 1 an), "
+"laquelle sera remplacée par la date spécifique définie.\n"
+
+#: pmpro-set-expiration-dates.php:34
+msgid ""
+"YYYY-MM-DD format. Enter \"Y\" for current year, \"Y2\" for next year. M, M2 "
+"for current/next\n"
+"\t\tmonth."
+msgstr ""
+"Format YYYY-MM-JJ. Entrez «Y» pour l'année en cours, «Y2» pour l'année "
+"suivante. De la même manière, «M» / «M2» pour le mois en cours/le mois "
+"suivant."
+
+#: pmpro-set-expiration-dates.php:268
+msgid ""
+"YYYY-MM-DD format. Enter \"Y\" for current year, \"Y2\" for next year. M, M2 "
+"for current/next month.\n"
+"\t\tBe sure to set an expiration date above as well."
+msgstr ""
+"Format YYYY-MM-JJ. Entrez «Y» pour l'année en cours, «Y2» pour l'année "
+"suivante. De la même manière, «M» / «M2» pour le mois en cours/le mois "
+"suivant. Assurez-vous aussi de définir une période d'expiration dans la "
+"section à cet effet plus haut."
